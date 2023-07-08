@@ -1,0 +1,66 @@
+[
+    {
+        "photoURL": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "address": "sydney, australia",
+        "testimonial": "My dining experience at [RestaurantName] was truly exceptional. From the moment we entered, the welcoming atmosphere and attentive staff made us feel right at home. The menu offered a delightful array of dishes, each expertly crafted with fresh, high-quality ingredients. Every bite was a culinary delight, and I can’t wait to return to [RestaurantName] to explore more of their delicious creations. Highly recommended!",
+        "rating": 3.4
+    },
+    {
+        "photoURL": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "address": "sydney, australia",
+        "testimonial": "If you’re looking for a phenomenal dining experience, look no further than [RestaurantName]. Their menu is a culinary masterpiece, offering an incredible selection of dishes that cater to diverse tastes and preferences. The atmosphere is warm and inviting, and the staff is friendly and attentive, making every visit a true pleasure. I’ve dined at [RestaurantName] several times and have never been disappointed – it’s truly a must-visit destination for any food lover.",
+        "rating": 3.1
+    },
+    {
+        "photoURL": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80",
+        "name": "Bob Johnson",
+        "email": "bobjohnson@example.com",
+        "address": "sydney, australia",
+        "testimonial": "I recently purchased a [product] from [Store Name], and I couldn’t be happier with my online shopping experience. Their website was user-friendly, making it easy to find the perfect item. The checkout process was smooth, and I received my order promptly. The [product] arrived in excellent condition, exactly as described on their website. I’m thrilled with the quality and will definitely shop at [Store Name] again in the future. Highly recommended!",
+        "rating": 4.3
+    },
+    {
+        "photoURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "name": "John",
+        "email": "john@example.com",
+        "address": "sydney, australia",
+        "testimonial": "I ordered a [product] from [Store Name] last week, and I was amazed at how quickly it arrived. The packaging was secure, ensuring the item was undamaged. The customer service was exceptional, as they kept me updated throughout the entire process. I had a question about the product, and their support team responded promptly and professionally. Overall, my experience with [Store Name] was outstanding, and I can’t wait for my next purchase.",
+        "rating": 4.7
+    },
+    {
+        "photoURL": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "address": "sydney, australia",
+        "testimonial": "My dining experience at [RestaurantName] was truly exceptional. From the moment we entered, the welcoming atmosphere and attentive staff made us feel right at home. The menu offered a delightful array of dishes, each expertly crafted with fresh, high-quality ingredients. Every bite was a culinary delight, and I can’t wait to return to [RestaurantName] to explore more of their delicious creations. Highly recommended!",
+        "rating": 4.6
+    },
+    {
+        "photoURL": "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "address": "sydney, australia",
+        "testimonial": "If you’re looking for a phenomenal dining experience, look no further than [RestaurantName]. Their menu is a culinary masterpiece, offering an incredible selection of dishes that cater to diverse tastes and preferences. The atmosphere is warm and inviting, and the staff is friendly and attentive, making every visit a true pleasure. I’ve dined at [RestaurantName] several times and have never been disappointed – it’s truly a must-visit destination for any food lover.",
+        "rating": 5
+    },
+    {
+        "photoURL": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80",
+        "name": "Bob Johnson",
+        "email": "bobjohnson@example.com",
+        "address": "sydney, australia",
+        "testimonial": "I recently purchased a [product] from [Store Name], and I couldn’t be happier with my online shopping experience. Their website was user-friendly, making it easy to find the perfect item. The checkout process was smooth, and I received my order promptly. The [product] arrived in excellent condition, exactly as described on their website. I’m thrilled with the quality and will definitely shop at [Store Name] again in the future. Highly recommended!",
+        "rating": 4.2
+    },
+    {
+        "photoURL": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80",
+        "name": "John",
+        "email": "john@example.com",
+        "address": "sydney, australia",
+        "testimonial": "I ordered a [product] from [Store Name] last week, and I was amazed at how quickly it arrived. The packaging was secure, ensuring the item was undamaged. The customer service was exceptional, as they kept me updated throughout the entire process. I had a question about the product, and their support team responded promptly and professionally. Overall, my experience with [Store Name] was outstanding, and I can’t wait for my next purchase.",
+        "rating": 3.6
+    }
+]
