@@ -5,8 +5,8 @@ import ProjectCard from './ProjectCard';
 
 const Projects = () => {
     return (
-        <section className=' mb-12 mt-4'>
-            <h2 className="text-center text-3xl font-bold text-slate-600">My <span className="text-orange-400">Projects</span></h2>
+        <section id='projects' className=' mb-12 pt-20'>
+            <h2 className="text-center text-4xl font-bold text-slate-600 mb-2">My <span className="text-orange-400">Projects</span></h2>
             <p className="text-center text-slate-400">I build each of my projects with passion, creativity, user-friendly, clean coding</p>
             <div className='md:flex md:gap-6 justify-center mt-16'>
                 <ProjectCard img={img1} imgAlt={'donate project image'} duration={"duration-[3000ms]"} />

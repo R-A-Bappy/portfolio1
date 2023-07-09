@@ -2,9 +2,9 @@
 
 const Skills = () => {
     return (
-        <section className="w-11/12 md:w-10/12 mx-auto mb-12">
+        <section id="skills" className="w-11/12 md:w-10/12 mx-auto pt-12">
             <h2 className='text-4xl font-bold mt-8 text-center'>My <span className='text-orange-400'>Skills</span></h2>
-            <p className='text-gray-400 text-lg mt-4 mb-12 text-center'>I&apos;m a hard working, discipline person. I&apos;m expert for problem solving skills</p>
+            <p className='text-gray-400 text-lg mt-2 mb-12 text-center'>I&apos;m a hard working, discipline person. I&apos;m expert for problem solving skills</p>
             <div className="md:flex gap-16">
                 <div className="w-full mb-8 md:mb-0">
                     <div className="w-full mb-8">
